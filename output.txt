@@ -1,0 +1,26 @@
+Player X's turn. Choose spot (1-9).
+1
+
+ X| | 
+--|-|--
+ ||
+--|-|--
+ ||
+
+Player O's turn. Choose spot (1-9).
+3
+
+ X| |O
+--|-|--
+ ||
+--|-|--
+ ||
+
+Player X's turn. Choose spot (1-9).
+4
+
+ X| |O
+--|-|--
+ X||
+--|-|--
+ ||
