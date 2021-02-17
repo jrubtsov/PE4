@@ -1,7 +1,9 @@
 #include <iostream>
+#include <string>
 
 char curr_mark;
 int curr_player;
+std::string board[3][3] = {{" ", " ", " "},{" "," "," "},{" "," "," "}};
 
 //gets row and column based on input square
 void PlaceMarker(int square){
@@ -18,8 +20,4 @@ void PlaceMarker(int square){
 	}
 	
 	board[row][col] = curr_mark;
-}
-
-int main(){
-	
 }
